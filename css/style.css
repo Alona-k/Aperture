@@ -35,9 +35,7 @@ header nav ul li:first-of-type{
     margin-right: 24px;
 }
 header nav li a{
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
+    font-family: 'poppinsregular';
     font-size: 15px;
     line-height: 20px;
    color: #FFFFFF;
@@ -47,9 +45,7 @@ header nav li:first-of-type a{
     font-size: 12px;
 }
 header nav li:last-of-type a{
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
+    font-family: 'poppinsregular';
     font-size: 16px;
     line-height: 20px;
     letter-spacing: 0.4px;
@@ -75,9 +71,7 @@ header nav li:last-of-type a{
     text-align: center;
 }
 .main_banner h3{
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
+    font-family: 'poppinsregular';
     font-size: 14px;
     line-height: 20px;
     /* identical to box height, or 143% */
@@ -86,9 +80,7 @@ header nav li:last-of-type a{
     color: #C0C0C0;
 }
 .main_banner h1{
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
+    font-family: 'poppinsregular';
     font-size: 54px;
     line-height: 59px;
     /* identical to box height, or 110% */
@@ -96,9 +88,7 @@ header nav li:last-of-type a{
     margin-bottom: 18px;
 }
 .main_banner p{
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
+    font-family: 'poppinsregular';
     font-size: 14px;
     line-height: 20px;
     /* or 143% */
@@ -119,9 +109,7 @@ header nav li:last-of-type a{
     text-align: center;
 }
 .secondary_banner h2{
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
+    font-family: 'poppinsregular';
     font-size: 40px;
     line-height: 42px;
     /* or 105% */
@@ -129,9 +117,7 @@ header nav li:last-of-type a{
     margin-bottom: 15px;
 }
 .secondary_banner h3{
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
+    font-family: 'poppinsregular';
     font-size: 24px;
     line-height: 30px;
     /* identical to box height, or 125% */
@@ -142,9 +128,7 @@ header nav li:last-of-type a{
     background-color: white;
     padding: 5px 4px;
     border-radius: 14px;
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
+    font-family: 'poppinsregular';
     font-size: 16px;
     line-height: 20px;
     /* identical to box height, or 125% */
