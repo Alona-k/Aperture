@@ -1,3 +1,16 @@
+@font-face {
+    font-family: 'poppinsregular';
+    src: url('../fonts/poppins-regular-webfont.eot');
+    src: url('../fonts/poppins-regular-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/poppins-regular-webfont.woff2') format('woff2'),
+    url('../fonts/poppins-regular-webfont.woff') format('woff'),
+    url('../fonts/poppins-regular-webfont.ttf') format('truetype'),
+    url('../fonts/poppins-regular-webfont.svg#poppinsregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 header{
     padding: 24px;
     background-color: #181818;;
@@ -173,4 +186,79 @@ footer .list{
 .information_block article{
     max-width: 298px;
     margin-right: 62px;
+}
+.information_block h3 {
+    font-family: 'poppinsregular';
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.information_block p{
+    font-family: 'poppinsregular';
+    font-size: 14px;
+    line-height: 20px;
+    /* or 143% */
+    color: #C0C0C0;
+}
+
+.information_block1{
+    background-image: url("../images/bg_3.jpg");
+    background-size: cover;
+    min-height: 600px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.information_block1 article {
+    max-width: 298px;
+    margin-right: 62px;
+}
+.information_block1 h3{
+    font-family: 'poppinsregular';
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.information_block1 p{
+    font-family: 'poppinsregular';
+    font-size: 14px;
+    line-height: 20px;
+    /* or 143% */
+    color: #C0C0C0;
+}
+
+.information_block2{
+    background-image: url("../images/bg_4.jpg");
+    background-size: cover;
+    min-height: 600px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.information_block2 article {
+    max-width: 298px;
+    margin-right: 62px;
+}
+.information_block2 h3{
+    font-family: 'poppinsregular';
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+.information_block2 p{
+    font-family: 'poppinsregular';
+    font-size: 14px;
+    line-height: 20px;
+    /* or 143% */
+    color: #C0C0C0;
 }
