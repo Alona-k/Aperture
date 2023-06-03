@@ -296,8 +296,35 @@ display: flex;
 }
 .past_clients .d-flex{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
+}
+.past_clients .d-flex a{
+    max-width: 128px;
+    display: inline-block;
+}
+.past_clients .owl-item{
+    text-align: center;
+}
+.past_clients .owl-stage{
+    display: flex;
+    align-items: center;
+}
+.past_clients .owl-nav .owl-prev{
+    background-color: green !important;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: -20px;
+    top: 30px;
+}
+.past_clients .owl-nav .owl-next{
+    background-color: green !important;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    right: -20px;
+    top: 30px;
 }
 .past_clients h2{
     font-family: 'poppinsregular';
