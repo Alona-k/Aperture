@@ -1,37 +1,4 @@
-@media only screen and (max-width: 1024px) {
-    .what_we_do .d-flex {
-        justify-content: center;
-    }
-}
-@media only screen and (max-width: 768px) {
-    header nav ul li{
-        margin-left: 12px;
-    }
-    header nav ul li a{
-        font-size: 10px;
-    }
-}
-@media only screen and (max-width: 428px) {
-    header .container{
-        justify-content: center;
-    }
-    header nav ul{
-        display: none;
-    }
-    header nav ul li {
-        margin-bottom: 10px;
-    }
-    .information_block article{
-        margin-right: 10px;
-    }
-    .information_block1 article{
-        margin-right: 10px;
-    }
-    .information_block2 article{
-        margin-right: 10px;
-    }
-    .past_clients .d-flex{
-        flex-wrap: wrap;
-    }
-}
+
+
+
 

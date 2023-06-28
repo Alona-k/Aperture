@@ -8,13 +8,13 @@
     url('../fonts/poppins-regular-webfont.svg#poppinsregular') format('svg');
     font-weight: normal;
     font-style: normal;
-
 }
 
 header{
     padding: 24px;
-    background-color: #181818;;
+    background-color: #181818;
 }
+
 header .container{
     max-width: 1200px;
     margin: auto;
@@ -23,6 +23,11 @@ header .container{
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+.logo{
+    position: relative;
+    z-index:99;
 }
 header nav ul{
     display: flex;
