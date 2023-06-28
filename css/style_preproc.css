@@ -894,8 +894,6 @@ footer {
   footer .ui-state-active, footer .ui-widget-content .ui-state-active, footer .ui-widget-header .ui-state-active, footer a.ui-button:active, footer .ui-button:active, footer .ui-button.ui-state-active:hover, footer .ui-state-default, footer .ui-widget-content .ui-state-default, footer .ui-widget-header .ui-state-default, footer .ui-button, footer html .ui-button.ui-state-disabled:hover, footer html .ui-button.ui-state-disabled:active, footer .ui-widget-content {
     background-color: transparent;
     border: none; }
-  footer .ui-accordion .ui-accordion-content {
-    padding: 0; }
   footer .ui-accordion .ui-accordion-header {
     max-width: 1168px;
     margin: auto;
